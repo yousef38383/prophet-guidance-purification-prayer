@@ -1,33 +1,24 @@
 # هدي النبي ﷺ في الطهارة والصلاة
 
-## معلومات الكتاب / Book Information
-
-**العنوان:** هدي النبي ﷺ في الطهارة والصلاة  
-**Title:** The Prophet's Guidance in Purification and Prayer
-
-**المؤلف:** غير محدد  
-**Author:** Unknown
-
-**الناشر:** غير محدد  
-**Publisher:** غير محدد
-
-**سنة النشر:** 1447هـ  
-**Year:** 1447هـ
-
-## نبذة عن الكتاب / About the Book
-
-هذا الكتاب هو مختصر لكتاب زاد المعاد في هدي خير العباد للإمام ابن قيم الجوزية، قام باختصاره أ.د. أحمد بن عثمان بن أحمد المزيد. يتناول الكتاب هدي النبي محمد ﷺ في الطهارة والصلاة، موضحاً تفاصيل الوضوء، المسح على الخفين، والتيمم. يعتمد الكتاب على الأحاديث الصحيحة ويوضح الممارسات النبوية في العبادات. الكتاب مطبوع على نفقة عثمان بن أحمد المزيد، ويهدف إلى نشر الهدي النبوي بين عامة المسلمين.
+**المؤلف:** غير محدد (مختصر من زاد المعاد لابن القيم، إعداد أ.د. أحمد المزيد)
+**الناشر:** غير محدد
+**سنة النشر:** 1447هـ
 
 ---
 
-This book is an abridged version of 'Zad al-Ma'ad fi Hadyi Khair al-Ibad' by Imam Ibn Qayyim al-Jawziyya, summarized by Prof. Dr. Ahmad bin Othman bin Ahmad al-Mazeed. It discusses the Prophet Muhammad's ﷺ guidance in purification and prayer, detailing aspects of ablution, wiping over socks, and dry ablution. The book relies on authentic hadiths and clarifies prophetic practices in worship. It was published at the expense of Othman bin Ahmad al-Mazeed, aiming to spread prophetic guidance among Muslims.
+### نبذة عن الكتاب
+هذا الكتاب هو مختصر لكتاب زاد المعاد في هدي خير العباد للإمام ابن قيم الجوزية، والذي تم اختصاره من قبل أ.د. أحمد بن عثمان بن أحمد المزيد. يتناول الكتاب هدي النبي محمد ﷺ في الطهارة والصلاة، موضحاً أحكامهما وتفاصيلهما بشكل مفصل. يشرح الكتاب هدي النبي ﷺ في الوضوء، الغسل، الصلاة، التيمم، وغيرها من المسائل المتعلقة بالطهارة والصلاة. يهدف الكتاب إلى تقديم فهم عميق وشامل لهدي النبي في هذه العبادات الجليلة.
 
-## المواضيع / Subjects
+### المواضيع والكلمات المفتاحية
+- **المواضيع:** الطهارة, الصلاة, هدي النبي / Purification, Prayer, Prophet's Guidance
+- **الكلمات المفتاحية:** طهارة, صلاة, وضوء, هدي النبي, ابن القيم, أحمد المزيد
 
-الطهارة, الصلاة, الهدي النبوي
+---
 
-Purification, Prayer, Prophetic Guidance
+### روابط ذات صلة
+- [Internet Archive](https://archive.org/details/hadi-al-nabi-taharah-salah)
+- [Telegram](https://t.me/arabicfreebooks/1571)
+- [Blogger](https://isalamicarabicbooks.blogspot.com/2026/03/blog-post_645.html)
 
-## الكلمات المفتاحية / Keywords
-
-طهارة, صلاة, هدي نبوي, وضوء, تيمم, مسح على الخفين
+---
+*تم تحديث البيانات بناءً على طلب المستخدم.*
