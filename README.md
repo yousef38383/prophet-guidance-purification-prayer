@@ -21,4 +21,3 @@
 - [Blogger](https://isalamicarabicbooks.blogspot.com/2026/03/blog-post_645.html)
 
 ---
-*تم تحديث البيانات بناءً على طلب المستخدم.*
